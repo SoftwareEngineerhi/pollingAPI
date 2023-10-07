@@ -37,8 +37,4 @@ Set UP your own mongoose cluster.
 Open Terminal and Type "npm install"
 and Then Type "npm start" which will run the project.
 
-# Hosted Link: https://polling-system-api-7ina.onrender.com/
-
-To test, https://polling-system-api-7ina.onrender.com/ {related routes}
-
 Now Open Postman and Enjoy the Features!
