@@ -13,7 +13,7 @@ module.exports.create = async function (req, res) {
         text: req.body.text
       })
       // Set the link for the vote for the option
-      option.link_to_vote = `http://localhost:3000/options/${option._id}/add_vote`;
+      option.link_to_vote = `https://polling-2hkl.onrender.com/options/${option._id}/add_vote`;
       option.save();
       // Push the option to the question's options array
       question.options.push(option._id);
