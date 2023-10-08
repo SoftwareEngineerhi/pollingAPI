@@ -11,6 +11,8 @@ A Polling System API using NOde JS and MongoDB have Multiple Features
 5. Delete an option (only if it has no votes).
 6. View a question with its options.
 
+#screenshot
+![2023-10-08 (2)](https://github.com/SoftwareEngineerhi/pollingAPI/assets/138565991/f30b973b-808a-4f58-8bac-068ef3c9b46d)
 
 # Routes:
 
